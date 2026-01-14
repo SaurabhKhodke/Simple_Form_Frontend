@@ -1,4 +1,4 @@
-# forms-in-html
+# Simple_Form_Frontend
 ![Registration Form Image](Form/Screenshot%202024-03-23%20171031.png)
 
 # Registration Form with Validation
